@@ -2,9 +2,7 @@
 title: "JAGS implementation of our Unstructured Stroop Model"
 author: Jeff Rouder
 date: August 27th, 2016
-output:
-  md_document:
-    variant: markdown_github
+output: pdf_document
 ---
 
 Let $Y_{ijk}$ be the RT for the $i$th participant ($i=1,\ldots,I) in the $j$th condition ($j=1,2$ for congruent and incogrnuent, respectively) for the $k$th replicate, $k=1,\ldots,K_{ij}$.
